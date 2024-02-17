@@ -1,5 +1,5 @@
 # Import the fuctions of fuel.py
-import fuel
+import Problem_5.test_fuel.fuel as fuel
 # import the fuctions of pytest for help to do a exception
 import pytest
 
