@@ -1,5 +1,5 @@
 # CS50Python
-Repository with my solutions to problems
+#### Repository with 
 
 bibliotecas para serem instaladas no Problem 4
 pip install emoji
