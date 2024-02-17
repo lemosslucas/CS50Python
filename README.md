@@ -28,7 +28,7 @@
 >[!IMPORTANT]
 > The file.py and test_file.py files must be in the same folder for pytest to work.
 ## License
-This project is under the (LICENSE) 
+This project is under the [LICENSE](LICENSE) 
 # Contact
 ## If you have any further questions or suggestions for improvement, please contact me via email at lucaslemoricaldoni@gmail.com
 > [!NOTE]
