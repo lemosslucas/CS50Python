@@ -1,6 +1,7 @@
 # CS50Python
-#### Repository with 
-
+#### Repository with all mine solutions for CS50 Python Problems [1,9], including the Final Project
+## Organization
+### The solutions are organized in 9 folders, and one folder for final project, each folder have the pythons with solution of exercise
 bibliotecas para serem instaladas no Problem 4
 pip install emoji
 pip install inflect
