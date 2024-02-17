@@ -3,7 +3,8 @@
 ## Organization
 ### The solutions are organized in 9 folders, and one folder for final project, each folder have the pythons with solution of exercise
 ## Librarys
-### Some solutions needs for run install extra library 
+### Some solutions needs for run install extra library, you have the pip instaled in your pc for run this commands
+ 
 bibliotecas para serem instaladas no Problem 4
 pip install emoji
 pip install inflect
