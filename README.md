@@ -11,3 +11,5 @@ Problem 6
 pip install tabulate
 Problem 7
 pip install validator_collection
+Problem 8
+pip install fpdf
