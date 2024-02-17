@@ -33,4 +33,4 @@ This project is under the [LICENSE](LICENSE)
 # Contact
 ## If you have any further questions or suggestions for improvement, please contact me via email at lucaslemoricaldoni@gmail.com
 > [!NOTE]
-> All the solutions were devoleped by @lemoss_lucas.
+> All the solutions were devoloped by @lemoss_lucas.
