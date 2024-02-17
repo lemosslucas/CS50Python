@@ -20,4 +20,4 @@
 > If you have any doubts or problem to install the pip(package installer python), you can see the video bellow for support you. How to install: https://www.youtube.com/watch?v=2C228srr8Zw If you prompt doesnt recognize the pip: https://www.youtube.com/watch?v=xdj0mGmuNjc
 ## Executions 
 ### Pythons files
-#### the command for run the py fiels
+#### For run pythons files you need 
