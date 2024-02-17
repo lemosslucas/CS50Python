@@ -9,3 +9,5 @@ Problem 5
 pip install pytest
 Problem 6
 pip install tabulate
+Problem 7
+pip install validator_collection
