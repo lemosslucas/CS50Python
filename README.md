@@ -21,5 +21,13 @@
 ## Executions 
 ### Pythons files
 #### For run pythons files you need type
-- python file_name
-    
+> python file_name
+### Test files
+#### For run test pythons files you need type
+> pytest file_name
+>[!IMPORTANT]
+> The file.py and test_file.py files must be in the same folder for pytest to work.
+> [!NOTE]
+> All the solutions are devolped @lemoss_lucas.
+# Contact
+## If you have any further questions or suggestions for improvement, please contact me via email at lucaslemoricaldoni@gmail.com
