@@ -7,3 +7,5 @@ pip install inflect
 pip install pyfiglet
 Problem 5
 pip install pytest
+Problem 6
+pip install tabulate
