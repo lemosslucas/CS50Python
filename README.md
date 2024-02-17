@@ -5,7 +5,7 @@
 ## Librarys
 ### Some solutions needs for run install extra library, you have the pip instaled in your pc for run this commands
 >[!NOTE] 
-> If you have any doubts or problem to install the pip(package installer python), you can 
+> If you have any doubts or problem to install the pip(package installer python), you can see the video 
 bibliotecas para serem instaladas no Problem 4
 pip install emoji
 pip install inflect
